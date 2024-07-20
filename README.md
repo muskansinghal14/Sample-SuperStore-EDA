@@ -11,6 +11,9 @@ Exploratory Data Analysis (EDA) is a crucial first step in the data analysis pro
 I have loaded the dataset and cleaned (preprocess) it for consistency then moved to the Exploratory Data Analysis (EDA) and the Data Visualization Part.
 In EDA, I have compared the sales with the highest reason to the sales of the lowest region to find out the reason for low sales in the weaker areas and many more comparisons too I did to check out the weak areas and you can check in detail in my ipynb file. 
 
+## Power BI Dashboard
+![SuperStore Dashboard](https://github.com/user-attachments/assets/7651904b-a30e-4ec5-88e3-923c8d78d8d5) 
+
 ## Conclusion
 After fully exploring the data, I have suggested the following:
 ### Insights:-
